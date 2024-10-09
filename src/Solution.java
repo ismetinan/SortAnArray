@@ -29,6 +29,8 @@ public class Solution {
         while (rightIndex < rightSide.length) {
             result[resultIndex++] = rightSide[rightIndex++];
         }
+        
         return result;
+        // ıjofnewdscuşnermposnfcm0erp
     }
 }
